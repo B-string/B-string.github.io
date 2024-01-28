@@ -19,3 +19,7 @@ package-lock.json
 .vscode
 
 # Misc
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
